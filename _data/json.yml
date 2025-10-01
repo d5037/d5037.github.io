@@ -1,1 +1,40 @@
-# empty
+- key: Name
+  value: Ernst Dolos
+
+- key: Occupation
+  value: Student
+
+- key: Field
+  value: Astrophysics & Astronomy
+
+- key: Email
+  value: freakingretard1488@gmail.com
+  url: "mailto:freakingretard1488@gmail.com"
+
+- key: Skills
+  value:
+    - Astrophysics
+    - Astronomy
+    - Scientific Research
+
+- key: About
+  value:
+    - Student passionate about astrophysics and astronomy
+    - Interested in cosmic phenomena and space exploration
+    - Enjoys scientific research and data analysis
+
+- key: Profiles
+  value:
+    - value: Telegram
+      url: https://t.me/vid_20180816_005454_3gp
+    - value: Discord
+      value: yungw3r7y
+    - value: Osu!
+      url: https://osu.ppy.sh/users/37634557
+
+- key: Interests
+  value:
+    - Cosmic phenomena
+    - Space exploration
+    - Scientific research
+    - Gaming
